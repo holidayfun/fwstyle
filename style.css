@@ -2871,7 +2871,7 @@ div.uwork + br[style="clear:both;"] + br {
     top: 0;
     bottom: 0;
     opacity: .8;
-    content: url(/addons/msf/i/secure.png)
+    content: url(addons/msf/i/secure.png)
 }
 #x54y113 a[href='main.php?arrive_eval=drinkwater']:after {
     width: 0;
