@@ -612,6 +612,7 @@ span.medium {
 #filterrow ~ .listitemrow a[href^="item.php?action=activate"]:hover {
     background-image: url(i/action2.png)
 }
+#filterrow ~ .medium a[href^="item.php?action=watch"] img,
 #filterrow ~ .listitemrow a[href^="item.php?action=watch"] img {
     padding-right: 16px;
     position: absolute;
@@ -620,9 +621,12 @@ span.medium {
     background-image: url(i/action3.png);
     background-position: center
 }
+#filterrow ~ .medium a[href^="item.php?action=watch"]:hover img,
 #filterrow ~ .listitemrow a[href^="item.php?action=watch"]:hover img {
     background-image: url(i/action4.png)
 }
+#filterrow ~ .medium a[href^="item.php?action=transfer1"] img,
+#filterrow ~ .medium a[href^="item.php?action=manytransfer1"] img,
 #filterrow ~ .listitemrow a[href^="item.php?action=transfer1"] img,
 #filterrow ~ .listitemrow a[href^="item.php?action=manytransfer1"] img {
     padding-right: 16px;
@@ -632,10 +636,13 @@ span.medium {
     background-image: url(i/action5.png);
     background-position: center
 }
+#filterrow ~ .medium a[href^="item.php?action=transfer1"]:hover img,
+#filterrow ~ .medium a[href^="item.php?action=manytransfer1"]:hover img,
 #filterrow ~ .listitemrow a[href^="item.php?action=transfer1"]:hover img,
 #filterrow ~ .listitemrow a[href^="item.php?action=manytransfer1"]:hover img {
     background-image: url(i/action6.png)
 }
+#filterrow ~ .medium a[href^="item.php?action=manydrop"] img,
 #filterrow ~ .listitemrow a[href^="item.php?action=manydrop"] img {
     padding-right: 16px;
     position: absolute;
@@ -644,6 +651,7 @@ span.medium {
     background-image: url(i/action7.png);
     background-position: center
 }
+#filterrow ~ .medium a[href^="item.php?action=manydrop"]:hover img,
 #filterrow ~ .listitemrow a[href^="item.php?action=manydrop"]:hover img {
     background-image: url(i/action8.png)
 }
