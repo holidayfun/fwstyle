@@ -612,8 +612,7 @@ span.medium {
 #filterrow ~ .listitemrow a[href^="item.php?action=activate"]:hover {
     background-image: url(i/action2.png)
 }
-#filterrow ~ .listitemrow .medium a[href^="item.php?action=watch"] img,
-#filterrow ~ .listitemrow a[href^="item.php?action=watch"] img {
+.medium a[href^="item.php?action=watch"] img{
     padding-right: 16px;
     position: absolute;
     top: 0;
