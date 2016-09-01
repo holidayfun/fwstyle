@@ -621,7 +621,7 @@ span.medium {
 }
 
 /* Positionierung des Anschauen Buttons */
-.medium a[href^="item.php?action=watch"] img{
+a[href^="item.php?action=watch"] img{
     padding-right: 16px;
     position: absolute;
     top: 0;
