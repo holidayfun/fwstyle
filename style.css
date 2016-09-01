@@ -636,16 +636,16 @@ a[href^="item.php?action=watch"] img{
 
 /* Workaround zum anzeigen von Anschauen, Ablegen, Transfer */
 
-p.listitemrow a[href*="action=watch"]:before 		{ content: url(i/action3.png); position: absolute; top: 2px; right: 35px; }
+p.listitemrow a[href*="action=watch"]:before 		{ content: url(i/action3.png); position: absolute; top: 2px; right: 33px; }
 p.listitemrow a[href*="action=watch"]:hover:before 	{ content: url(i/action4.png); }
 
-p.listitemrow a[href*="action=manydrop"]:before 		{ content: url(i/action5.png); position: absolute; top: 2px; right: 24px; }
+p.listitemrow a[href*="action=manydrop"]:before 		{ content: url(i/action5.png); position: absolute; top: 2px; right: 18px; }
 p.listitemrow a[href*="action=manydrop"]:hover:before 	{ content: url(i/action6.png) }
 
-p.listitemrow a[href*="action=transfer1"]:before 		{ content: url(i/action7.png); position: absolute; top: 2px; right: 8px; }
+p.listitemrow a[href*="action=transfer1"]:before 		{ content: url(i/action7.png); position: absolute; top: 2px; right: 4px; }
 p.listitemrow a[href*="action=transfer1"]:hover:before 	{ content: url(i/action8.png); }
 
-p.listitemrow a[href*="action=manytransfer1"]:before 		{ content: url(i/action7.png); position: absolute; top: 2px; right: 8px; }
+p.listitemrow a[href*="action=manytransfer1"]:before 		{ content: url(i/action7.png); position: absolute; top: 2px; right: 4px; }
 p.listitemrow a[href*="action=manytransfer1"]:hover:before 	{ content: url(i/action8.png); }
 
 
