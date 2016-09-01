@@ -540,6 +540,7 @@ table[id^="fastspell"]:last-of-type + .small + p:last-of-type[class="listcaption
 span.medium {
     display: inline-block
 }
+/* kein Zeilenumbrung nach dem Item */
 #filterrow ~ .listitemrow br {
     display: none
 }
@@ -559,7 +560,7 @@ span.medium {
 }
 #filterrow ~ .listitemrow .itemmagic {
     width: 0px;
-    font-size: 0px;
+    /*font-size: 0px;*/
     color: transparent
 }
 #filterrow ~ .listitemrow .itemmagic:before {
@@ -600,6 +601,7 @@ span.medium {
     background-position: right bottom;
     margin-top: 1px
 }
+/* Positionierung des Anwenden Buttons */
 #filterrow ~ .listitemrow a[href^="item.php?action=activate"] {
     padding-right: 16px;
     position: absolute;
@@ -611,7 +613,9 @@ span.medium {
 #filterrow ~ .listitemrow a[href^="item.php?action=activate"]:hover {
     background-image: url(i/action2.png)
 }
-#filterrow ~ .medium a[href^="item.php?action=watch"] img{
+
+/* Positionierung des Anschauen Buttons */
+#filterrow ~ .listitemrow a[href^="item.php?action=watch"] img{
     padding-right: 16px;
     position: absolute;
     top: 0;
@@ -619,7 +623,6 @@ span.medium {
     background-image: url(i/action3.png);
     background-position: center
 }
-#filterrow ~ p.listitemrow span.medium a[href^="item.php?action=watch"]:hover img,
 #filterrow ~ .listitemrow a[href^="item.php?action=watch"]:hover img {
     background-image: url(i/action4.png)
 }
