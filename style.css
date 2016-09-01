@@ -587,8 +587,7 @@ span.medium {
 #filterrow ~ .listitemrow br ~ a,
 #filterrow ~ .listitemrow br ~ a:hover {
     display: block;
-    /* Auskommentieren, dann zeigt es die Links an */
-    /*font-size: 0px;*/
+    font-size: 0px;
     color: transparent
 }
 #filterrow ~ .listitemrow b {
@@ -635,26 +634,26 @@ a[href^="item.php?action=watch"] img{
 }
 */
 
-/*Workaround zum anzeigen von Anschauen, Ablegen, Transfer*/
+/* Workaround zum anzeigen von Anschauen, Ablegen, Transfer */
 
 p.listitemrow a[href*="action=watch"] 			{ display: block; height: 0px; margin: -2px 0px 0px 300px; }
-p.listitemrow:hover a[href*="action=watch"]:before 		{ content: url(i/action3.png); position: absolute; top: 2px; right: 35px; opacity: 0.80; }
-p.listitemrow:hover a[href*="action=watch"]:hover:before 	{ opacity: 1.00; }
+p.listitemrow:hover a[href*="action=watch"]:before 		{ content: url(i/action3.png); position: absolute; top: 2px; right: 35px; }
+p.listitemrow:hover a[href*="action=watch"]:hover:before 	{ content: url(i/action4.png); }
 
 p.listitemrow a[href*="action=manydrop"] 			{ display: block; height: 0px; margin: -2px 0px 0px 300px; }
-p.listitemrow:hover a[href*="action=manydrop"]:before 		{ content: url(i/action5.png); position: absolute; top: 2px; right: 24px; opacity: 0.80; }
-p.listitemrow:hover a[href*="action=manydrop"]:hover:before 	{ opacity: 1.00; }
+p.listitemrow:hover a[href*="action=manydrop"]:before 		{ content: url(i/action5.png); position: absolute; top: 2px; right: 24px; }
+p.listitemrow:hover a[href*="action=manydrop"]:hover:before 	{ content: url(i/action6.png) }
 
 p.listitemrow a[href*="action=transfer1"] 			{ display: block; height: 0px; margin: -2px 0px 0px 300px; }
-p.listitemrow:hover a[href*="action=transfer1"]:before 		{ content: url(i/action7.png); position: absolute; top: 2px; right: 10px; opacity: 0.80; }
-p.listitemrow:hover a[href*="action=transfer1"]:hover:before 	{ opacity: 1.00; }
+p.listitemrow:hover a[href*="action=transfer1"]:before 		{ content: url(i/action7.png); position: absolute; top: 2px; right: 10px; }
+p.listitemrow:hover a[href*="action=transfer1"]:hover:before 	{ content: url(i/action8.png); }
 
 p.listitemrow a[href*="action=manytransfer1"] 			{ display: block; height: 0px; margin: -2px 0px 0px 300px; }
-p.listitemrow:hover a[href*="action=manytransfer1"]:before 		{ content: url(i/action7.png); position: absolute; top: 2px; right: 10px; opacity: 0.80; }
-p.listitemrow:hover a[href*="action=manytransfer1"]:hover:before 	{ opacity: 1.00; }
+p.listitemrow:hover a[href*="action=manytransfer1"]:before 		{ content: url(i/action7.png); position: absolute; top: 2px; right: 10px; }
+p.listitemrow:hover a[href*="action=manytransfer1"]:hover:before 	{ content: url(i/action8.png); }
 
 
-
+/* Anzeige des Transfer Buttons */
 #filterrow ~ a[href^="item.php?action=transfer1"] img,
 #filterrow ~ a[href^="item.php?action=manytransfer1"] img,
 #filterrow ~ .listitemrow a[href^="item.php?action=transfer1"] img,
@@ -672,6 +671,8 @@ p.listitemrow:hover a[href*="action=manytransfer1"]:hover:before 	{ opacity: 1.0
 #filterrow ~ .listitemrow a[href^="item.php?action=manytransfer1"]:hover img {
     background-image: url(i/action6.png)
 }
+
+/* Anzeige des Ablegen Buttons */
 #filterrow ~ .listitemrow .medium a[href^="item.php?action=manydrop"] img,
 #filterrow ~ .listitemrow a[href^="item.php?action=manydrop"] img {
     padding-right: 16px;
@@ -685,6 +686,9 @@ p.listitemrow:hover a[href*="action=manytransfer1"]:hover:before 	{ opacity: 1.0
 #filterrow ~ .listitemrow a[href^="item.php?action=manydrop"]:hover img {
     background-image: url(i/action8.png)
 }
+
+
+
 #phasespacer {
     display: inline-block;
     height: 0
