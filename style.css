@@ -621,7 +621,7 @@ span.medium {
 }
 
 /* Positionierung des Anschauen Buttons */
-.listitemrow ~ .medium a[href^="item.php?action=watch"] img{
+.medium a[href^="item.php?action=watch"] img{
     padding-right: 16px;
     position: absolute;
     top: 0;
@@ -629,7 +629,7 @@ span.medium {
     background-image: url(i/action3.png);
     background-position: center
 }
-.listitemrow ~ .medium a[href^="item.php?action=watch"]:hover img {
+.medium a[href^="item.php?action=watch"]:hover img {
     background-image: url(i/action4.png)
 }
 #filterrow ~ a[href^="item.php?action=transfer1"] img,
