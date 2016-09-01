@@ -621,6 +621,7 @@ span.medium {
 }
 
 /* Positionierung des Anschauen Buttons */
+/*
 a[href^="item.php?action=watch"] img{
     padding-right: 16px;
     position: absolute;
@@ -632,6 +633,13 @@ a[href^="item.php?action=watch"] img{
 .medium a[href^="item.php?action=watch"]:hover img {
     background-image: url(i/action4.png)
 }
+*/
+p.listitemrow a[href*="action=watch"] 			{ display: block; height: 0px; margin: -2px 0px 0px 300px; }
+p.listitemrow:hover a[href*="action=watch"]:before 		{ content: url(i/action3.png); position: absolute; top: 2px; right: 35px; opacity: 0.80; }
+p.listitemrow:hover a[href*="action=watch"]:hover:before 	{ opacity: 1.00; }
+
+
+
 #filterrow ~ a[href^="item.php?action=transfer1"] img,
 #filterrow ~ a[href^="item.php?action=manytransfer1"] img,
 #filterrow ~ .listitemrow a[href^="item.php?action=transfer1"] img,
