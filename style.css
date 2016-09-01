@@ -519,11 +519,13 @@ table[id^="fastspell"]:last-of-type + .small + p:last-of-type[class="listcaption
     background: rgba(255, 255, 255, .5);
     text-align: center
 }
+/* direkt nach dem Filter werden die Ecken abgerundet */
 #filterrow + .listitemrow {
     border-top-left-radius: 4px;
     border-top-right-radius: 4px;
     margin-top: 2px
 }
+/* die anderen sind eckig */
 #filterrow ~ .listitemrow {
     position: relative;
     padding: 2px 3px;
@@ -532,6 +534,7 @@ table[id^="fastspell"]:last-of-type + .small + p:last-of-type[class="listcaption
     border: 1px solid #ccc;
     border-bottom: 0
 }
+/* das letzte wird wieder abgerundent */
 #filterrow ~ .listitemrow:last-of-type {
     border-bottom-left-radius: 4px;
     border-bottom-right-radius: 4px;
@@ -572,9 +575,11 @@ span.medium {
     left: 0;
     bottom: 0
 }
+/* roter Balken vor unverlängertem magischen items */
 #filterrow ~ .listitemrow .itemmagic:before {
     background: #bb7857
 }
+/* grüner Balken vor verlängertem magischen items */
 #filterrow ~ .listitemrow .itemmagic.magicextend:before {
     background: #83bb57
 }
@@ -582,6 +587,7 @@ span.medium {
 #filterrow ~ .listitemrow br ~ a,
 #filterrow ~ .listitemrow br ~ a:hover {
     display: block;
+    /* Auskommentieren, dann zeigt es die Links an */
     /*font-size: 0px;*/
     color: transparent
 }
@@ -615,7 +621,7 @@ span.medium {
 }
 
 /* Positionierung des Anschauen Buttons */
-#filterrow ~ .listitemrow a[href^="item.php?action=watch"] img{
+.listitemrow ~ .medium a[href^="item.php?action=watch"] img{
     padding-right: 16px;
     position: absolute;
     top: 0;
@@ -623,7 +629,7 @@ span.medium {
     background-image: url(i/action3.png);
     background-position: center
 }
-#filterrow ~ .listitemrow a[href^="item.php?action=watch"]:hover img {
+.listitemrow ~ .medium a[href^="item.php?action=watch"]:hover img {
     background-image: url(i/action4.png)
 }
 #filterrow ~ a[href^="item.php?action=transfer1"] img,
