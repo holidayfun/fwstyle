@@ -634,9 +634,24 @@ a[href^="item.php?action=watch"] img{
     background-image: url(i/action4.png)
 }
 */
+
+/*Workaround zum anzeigen von Anschauen, Ablegen, Transfer*/
+
 p.listitemrow a[href*="action=watch"] 			{ display: block; height: 0px; margin: -2px 0px 0px 300px; }
 p.listitemrow:hover a[href*="action=watch"]:before 		{ content: url(i/action3.png); position: absolute; top: 2px; right: 35px; opacity: 0.80; }
 p.listitemrow:hover a[href*="action=watch"]:hover:before 	{ opacity: 1.00; }
+
+p.listitemrow a[href*="action=manydrop"] 			{ display: block; height: 0px; margin: -2px 0px 0px 300px; }
+p.listitemrow:hover a[href*="action=manydrop"]:before 		{ content: url(i/action5.png); position: absolute; top: 2px; right: 24px; opacity: 0.80; }
+p.listitemrow:hover a[href*="action=manydrop"]:hover:before 	{ opacity: 1.00; }
+
+p.listitemrow a[href*="action=transfer1"] 			{ display: block; height: 0px; margin: -2px 0px 0px 300px; }
+p.listitemrow:hover a[href*="action=transfer1"]:before 		{ content: url(i/action7.png); position: absolute; top: 2px; right: 10px; opacity: 0.80; }
+p.listitemrow:hover a[href*="action=transfer1"]:hover:before 	{ opacity: 1.00; }
+
+p.listitemrow a[href*="action=manytransfer1"] 			{ display: block; height: 0px; margin: -2px 0px 0px 300px; }
+p.listitemrow:hover a[href*="action=manytransfer1"]:before 		{ content: url(i/action7.png); position: absolute; top: 2px; right: 10px; opacity: 0.80; }
+p.listitemrow:hover a[href*="action=manytransfer1"]:hover:before 	{ opacity: 1.00; }
 
 
 
