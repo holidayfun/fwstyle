@@ -1,4 +1,3 @@
-@import 'event.css?world=de10';
 @import 'http://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic';
 
 /*
@@ -620,7 +619,7 @@ span.medium {
     background-image: url(i/action3.png);
     background-position: center
 }
-#filterrow ~ .listitemrow .medium a[href^="item.php?action=watch"]:hover img,
+#filterrow ~ p.listitemrow span.medium a[href^="item.php?action=watch"]:hover img,
 #filterrow ~ .listitemrow a[href^="item.php?action=watch"]:hover img {
     background-image: url(i/action4.png)
 }
