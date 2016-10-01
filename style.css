@@ -2614,6 +2614,194 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx127y79 > a:after {
     content: 'gr. Schatten'
 }
+#mapx120y86 > a:after,
+#mapx119y88 > a:after,
+#mapx121y88 > a:after,
+#mapx122y85 > a:after,
+#mapx123y84 > a:after,
+#mapx123y86 > a:after,
+#mapx124y85 > a:after {
+    content: 'Krokodil'
+}
+#mapx97y81 > a:after,
+#mapx94y79 > a:after,
+#mapx95y80 > a:after,
+#mapx97y80 > a:after,
+#mapx98y76 > a:after,
+#mapx100y74 > a:after,
+#mapx101y73 > a:after,
+#mapx101y75 > a:after,
+#mapx103y79 > a:after,
+#mapx121y89 > a:after,
+#mapx123y87 > a:after,
+#mapx125y86 > a:after {
+    content: 'Morin'
+}
+
+#mapx102y121 > a:after,
+#mapx103y125 > a:after,
+#mapx103y126 > a:after,
+#mapx103y127 > a:after,
+#mapx103y128 > a:after,
+#mapx104y126 > a:after,
+#mapx105y125 > a:after,
+#mapx105y127 > a:after,
+#mapx106y124 > a:after,
+#mapx106y127 > a:after,
+#mapx106y128 > a:after,
+#mapx107y127 > a:after,
+#mapx202y134 > a:after,
+#mapx51y90 > a:after,
+#mapx53y98 > a:after,
+#mapx53y103 > a:after,
+#mapx-425y-298 > a:after,
+#mapx-428y-296 > a:after,
+#mapx-429y-298 > a:after,
+#mapx51y80 > a:after,
+#mapx53y85 > a:after,
+#mapx119y89 > a:after,
+#mapx121y87 > a:after,
+#mapx122y87 > a:after,
+#mapx126y86 > a:after,
+#mapx81y78 > a:after,
+#mapx88y79 > a:after,
+#mapx39y98 > a:after {
+    content: 'Undaron'
+}
+#mapx52y90 > a:after,
+#mapx52y93 > a:after,
+#mapx49y95 > a:after,
+#mapx52y96 > a:after,
+#mapx52y100 > a:after,
+#mapx50y102 > a:after,
+#mapx50y104 > a:after {
+	content: 'Kraftvoller'
+}
+#mapx106y81 > a:after,
+#mapx106y85 > a:after,
+#mapx107y81 > a:after,
+#mapx107y83 > a:after,
+#mapx107y84 > a:after,
+#mapx107y85 > a:after,
+#mapx107y86 > a:after,
+#mapx108y81 > a:after,
+#mapx108y82 > a:after,
+#mapx108y85 > a:after,
+#mapx108y86 > a:after,
+#mapx108y87 > a:after,
+#mapx109y83 > a:after,
+#mapx109y84 > a:after,
+#mapx109y86 > a:after,
+#mapx110y84 > a:after,
+#mapx110y85 > a:after,
+#mapx111y86 > a:after,
+#mapx111y87 > a:after,
+#mapx98y75 > a:after,
+#mapx96y79 > a:after {
+	content: 'Frostdämon'
+}
+#mapx104y75 > a:after,
+#mapx101y84 > a:after,
+#mapx101y85 > a:after,
+#mapx102y83 > a:after,
+#mapx103y80 > a:after,
+#mapx103y81 > a:after,
+#mapx103y83 > a:after,
+#mapx104y78 > a:after,
+#mapx104y79 > a:after,
+#mapx104y83 > a:after,
+#mapx105y79 > a:after,
+#mapx105y80 > a:after,
+#mapx106y75 > a:after{
+	content: 'Abgesandter'
+}
+
+#mapx134y116 > a:after,
+#mapx134y117 > a:after,
+#mapx135y115 > a:after,
+#mapx135y117 > a:after,
+#mapx136y113 > a:after,
+#mapx136y116 > a:after,
+#mapx136y118 > a:after,
+#mapx137y117 > a:after,
+#mapx137y118 > a:after,
+#mapx139y115 > a:after,
+#mapx139y116 > a:after,
+#mapx139y117 > a:after {
+	content: 'Muschel'
+}
+
+#mapx188y131 > a:after,
+#mapx189y132 > a:after,
+#mapx190y135 > a:after,
+#mapx191y131 > a:after,
+#mapx192y130 > a:after,
+#mapx192y136 > a:after,
+#mapx193y134 > a:after,
+#mapx194y131 > a:after,
+#mapx194y132 > a:after,
+#mapx195y130 > a:after,
+#mapx195y136 > a:after,
+#mapx196y128 > a:after,
+#mapx196y133 > a:after,
+#mapx197y136 > a:after,
+#mapx198y131 > a:after,
+#mapx199y135 > a:after {
+	content: 'Strativar'
+}
+#mapx192y135 > a:after,
+#mapx193y130 > a:after,
+#mapx194y134 > a:after,
+#mapx196y129 > a:after,
+#mapx197y130 > a:after {
+	content: 'Fallensteller'
+}
+#mapx182y137 > a:after,
+#mapx183y138 > a:after,
+#mapx183y139 > a:after,
+#mapx184y136 > a:after,
+#mapx184y137 > a:after,
+#mapx184y138 > a:after,
+#mapx185y135 > a:after,
+#mapx185y136 > a:after,
+#mapx185y138 > a:after,
+#mapx186y135 > a:after,
+#mapx186y139 > a:after,
+#mapx187y136 > a:after,
+#mapx187y137 > a:after,
+#mapx187y138 > a:after {
+	content: 'Sandgolem'
+}
+#mapx184y140 > a:after,
+#mapx185y140 > a:after,
+#mapx186y140 > a:after {
+	content: 'Rochen'
+}
+#mapx79y78 > a:after,
+#mapx80y76 > a:after,
+#mapx81y74 > a:after,
+#mapx81y75 > a:after,
+#mapx82y75 > a:after,
+#mapx83y77 > a:after,
+#mapx86y79 > a:after,
+#mapx88y80 > a:after {
+	content: 'Kriecher'
+}
+#mapx255y94 > a:after,
+#mapx255y95 > a:after,
+#mapx256y95 > a:after,
+#mapx257y92 > a:after,
+#mapx257y94 > a:after,
+#mapx258y95 > a:after,
+#mapx259y92 > a:after,
+#mapx-237y-385 > a:after {
+	content: 'Schildkröte'
+}
+
+
+
+
+
 
 .frameitembg select[name="z_pos_id"] option[value="290"] {
     font-weight: bold
