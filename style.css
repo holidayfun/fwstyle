@@ -2602,6 +2602,19 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx87y99 > a:after {
     content: 'Käfer'
 }
+#mapx-119y-80 > a:after,
+#mapx-120y-81 > a:after,
+#mapx-121y-80 > a:after,
+#mapx-121y-81 > a:after,
+#mapx-122y-80 > a:after,
+#mapx-122y-82 > a:after,
+#mapx-123y-81 > a:after,
+#mapx-124y-80 > a:after,
+#mapx-126y-80 > a:after,
+#mapx-127y-79 > a:after {
+    content: 'gr. Schatten'
+}
+
 .frameitembg select[name="z_pos_id"] option[value="290"] {
     font-weight: bold
 }
