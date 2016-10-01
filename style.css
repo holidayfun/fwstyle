@@ -2602,16 +2602,16 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx87y99 > a:after {
     content: 'Käfer'
 }
-#mapx-119y-80 > a:after,
-#mapx-120y-81 > a:after,
-#mapx-121y-80 > a:after,
-#mapx-121y-81 > a:after,
-#mapx-122y-80 > a:after,
-#mapx-122y-82 > a:after,
-#mapx-123y-81 > a:after,
-#mapx-124y-80 > a:after,
-#mapx-126y-80 > a:after,
-#mapx-127y-79 > a:after {
+#mapx119y80 > a:after,
+#mapx120y81 > a:after,
+#mapx121y80 > a:after,
+#mapx121y81 > a:after,
+#mapx122y80 > a:after,
+#mapx122y82 > a:after,
+#mapx123y81 > a:after,
+#mapx124y80 > a:after,
+#mapx126y80 > a:after,
+#mapx127y79 > a:after {
     content: 'gr. Schatten'
 }
 
