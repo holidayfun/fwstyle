@@ -2797,7 +2797,211 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx-237y-385 > a:after {
 	content: 'Schildkröte'
 }
+#mapx102y128 > a:after,
+#mapx101y129 > a:after,
+#mapx103y130 > a:after {
+	content: 'Steinkraller'
+}
+#mapx102y129 > a:after {
+	content: 'Krabbler'
+}
+#mapx-202y-829 > a:after,
+#mapx-202y-828 > a:after,
+#mapx-203y-828 > a:after,
+#mapx-203y-825 > a:after,
+#mapx-202y-824 > a:after,
+#mapx-201y-824 > a:after,
+#mapx-200y-823 > a:after,
+#mapx-200y-822 > a:after,
+#mapx-199y-825 > a:after,
+#mapx-198y-825 > a:after {
+	content: 'denkender'
+}
+#mapx-210y-827 > a:after,
+#mapx-210y-826 > a:after,
+#mapx-209y-828 > a:after,
+#mapx-209y-825 > a:after,
+#mapx-208y-828 > a:after,
+#mapx-207y-828 > a:after,
+#mapx-207y-827 > a:after,
+#mapx-207y-826 > a:after,
+#mapx-207y-825 > a:after,
+#mapx-207y-824 > a:after,
+#mapx-206y-827 > a:after,
+#mapx-205y-829 > a:after,
+#mapx-205y-827 > a:after,
+#mapx-205y-825 > a:after,
+#mapx-204y-825 > a:after,
+#mapx-202y-827 > a:after,
+#mapx-202y-825 > a:after,
+#mapx-200y-826 > a:after,
+#mapx-200y-824 > a:after,
+#mapx-199y-826 > a:after,
+#mapx-206y-825 > a:after,
+#mapx-199y-823 > a:after {
+	content: 'norm. Dämon'
+}
 
+#mapx-208y-827 > a:after,
+#mapx-208y-826 > a:after,
+#mapx-206y-828 > a:after,
+#mapx-206y-826 > a:after,
+#mapx-206y-824 > a:after,
+#mapx-201y-825 > a:after,
+#mapx-199y-824 > a:after {
+	content: 'schw. Dämon'
+}
+
+#mapx-209y-827 > a:after,
+#mapx-209y-826 > a:after,
+#mapx-208y-825 > a:after,
+#mapx-205y-826 > a:after {
+	content: 'ur. Dämon'
+}
+#mapx-609y-207 > a:after,
+#mapx-608y-205 > a:after,
+#mapx-606y-207 > a:after,
+#mapx-605y-206 > a:after,
+#mapx-604y-209 > a:after,
+#mapx-604y-206 > a:after,
+#mapx-603y-207 > a:after,
+#mapx-603y-204 > a:after,
+#mapx-602y-208 > a:after,
+#mapx-602y-206 > a:after {
+	content: 'Falke'
+}
+#mapx101y136 > a:after,
+#mapx106y136 > a:after {
+	content: 'Krebs'
+}
+#mapx102y133 > a:after,
+#mapx102y136 > a:after,
+#mapx103y134 > a:after,
+#mapx103y135 > a:after,
+#mapx103y136 > a:after,
+#mapx104y132 > a:after,
+#mapx104y135 > a:after,
+#mapx106y134 > a:after {
+	content: 'Möwe'
+}
+#mapx100y135 > a:after,
+#mapx100y136 > a:after {
+	content: 'Schildkröte'
+}
+#mapx101y137 > a:after,
+#mapx106y137 > a:after,
+#mapx107y137 > a:after {
+	content: 'Reiter'
+}
+#mapx103y131 > a:after {
+	content: 'Statue'
+}
+#mapx-236y-387 > a:after,
+#mapx-236y-386 > a:after,
+#mapx-235y-386 > a:after,
+#mapx-235y-385 > a:after,
+#mapx-234y-386 > a:after,
+#mapx-232y-386 > a:after {
+	content: 'Krebs'
+}
+#mapx-238y-387 > a:after,
+#mapx-238y-386 > a:after,
+#mapx-236y-388 > a:after,
+#mapx-236y-385 > a:after,
+#mapx-236y-384 > a:after {
+	content: 'Wurm'
+}
+
+#mapx53y74 > a:after,
+#mapx53y75 > a:after,
+#mapx54y76 > a:after,
+#mapx54y77 > a:after,
+#mapx55y75 > a:after {
+	content: 'magische'
+}
+#mapx52y76 > a:after,
+#mapx53y76 > a:after,
+#mapx53y77 > a:after,
+#mapx54y74 > a:after,
+#mapx54y75 > a:after,
+#mapx55y76 > a:after,
+#mapx56y75 > a:after {
+	content: 'kleine'
+}
+#mapx114y102 > a:after,
+#mapx115y101 > a:after,
+#mapx116y100 > a:after,
+#mapx118y100 > a:after,
+#mapx118y99 > a:after {
+	content: 'Farn'
+}
+#mapx78y78 > a:after,
+#mapx78y79 > a:after,
+#mapx83y76 > a:after,
+#mapx84y77 > a:after {
+	content: 'Schlange'
+}
+#mapx119y91 > a:after,
+#mapx120y90 > a:after,
+#mapx120y91 > a:after,
+#mapx120y93 > a:after,
+#mapx121y90 > a:after,
+#mapx121y92 > a:after,
+#mapx123y91 > a:after {
+	content: 'Kaktus'
+}
+#mapx-232y-368 > a:after,
+#mapx-231y-367 > a:after,
+#mapx-232y-366 > a:after,
+#mapx-230y-368 > a:after,
+#mapx-229y-366 > a:after,
+#mapx-228y-369 > a:after,
+#mapx-228y-367 > a:after,
+#mapx-228y-366 > a:after,
+#mapx-228y-365 > a:after,
+#mapx-227y-367 > a:after,
+#mapx-226y-369 > a:after,
+#mapx-226y-369 > a:after,
+#mapx-226y-365 > a:after,
+#mapx-225y-368 > a:after {
+	content: 'Fisch'
+}
+#mapx-231y-369 > a:after,
+#mapx-229y-367 > a:after,
+#mapx-227y-365 > a:after,
+#mapx-225y-366 > a:after {
+	content: 'Hai'
+}
+#mapx94y86 > a:after,
+#mapx94y87 > a:after,
+#mapx95y83 > a:after,
+#mapx96y83 > a:after,
+#mapx97y81 > a:after,
+#mapx97y83 > a:after,
+#mapx98y82 > a:after,
+#mapx103y76 > a:after,
+#mapx104y81 > a:after {
+	content: 'Frostgeist'
+}
+#mapx63y101 > a:after,
+#mapx63y102 > a:after,
+#mapx50y97 > a:after,
+#mapx54y96 > a:after {
+	content: 'Schleimer'
+}
+#mapx56y97 > a:after,
+#mapx65y101 > a:after,
+#mapx57y97 > a:after,
+#mapx58y96 > a:after,
+#mapx58y98 > a:after,
+#mapx59y99 > a:after,
+#mapx59y101 > a:after,
+#mapx60y97 > a:after,
+#mapx60y101 > a:after,
+#mapx61y99 > a:after,
+#mapx51y96 > a:after {
+	content: 'Kreischer'
+}
 
 
 
