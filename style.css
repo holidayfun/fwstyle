@@ -657,7 +657,7 @@ p.listitemrow a[href*="action=manytransfer1"]:hover:before 	{ content: url(i/act
     padding-right: 16px;
     position: absolute;
     top: 0;
-    right: 1px;
+    right: 4px;
     background-image: url(i/action5.png);
     background-position: center
 }
@@ -674,7 +674,7 @@ p.listitemrow a[href*="action=manytransfer1"]:hover:before 	{ content: url(i/act
     padding-right: 16px;
     position: absolute;
     top: 0;
-    right: 12px;
+    right: 17px;
     background-image: url(i/action7.png);
     background-position: center
 }
