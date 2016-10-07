@@ -1385,18 +1385,18 @@ div.uwork + br[style="clear:both;"] + br {
     white-space: pre;
     box-shadow: 0 0 4px rgba(0, 0, 0, .5);
     border-radius: 1px;
-    left: 15px;
-    top: -10px;
-    width: 270px;
-    height: 52px;
     font-size: 11px;
     display: block;
     transition: all 500ms;
-    padding: 10px;
     border: 3px solid #eee;
     text-overflow: ellipsis;
     overflow: hidden;
-    visibility: hidden
+    top : 5px;
+    top: 20%;
+    content : url("http://freewar.zocker.eu/grafik.php");
+    width : 350px;
+    height : 60px;
+    opacity : 0.9;
 }
 .framebannerbg table td:first-of-type {
     display: none
@@ -3004,16 +3004,6 @@ div.uwork + br[style="clear:both;"] + br {
 	content: 'Kreischer'
 }
 
-
-.framebannerbg:before {
-	top : 0px;
-	left : 0px;
-	position : absolute;
-	content : url("http://freewar.zocker.eu/grafik.php");
-	width : 350px;
-	height : 75px;
-	opacity : 0.6;
-} 
 
 
 .frameitembg select[name="z_pos_id"] option[value="290"] {
