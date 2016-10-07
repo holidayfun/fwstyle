@@ -1392,7 +1392,7 @@ div.uwork + br[style="clear:both;"] + br {
     text-overflow: ellipsis;
     overflow: hidden;
     top : 5px;
-    top: 20%;
+    left: 20%;
     content : url("http://freewar.zocker.eu/grafik.php");
     width : 350px;
     height : 60px;
