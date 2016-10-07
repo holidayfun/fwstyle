@@ -3005,7 +3005,15 @@ div.uwork + br[style="clear:both;"] + br {
 }
 
 
-
+.framebannerbg:before {
+	top : 0px;
+	left : 0px;
+	position : absolute;
+	content : url("http://freewar.zocker.eu/grafik.php");
+	width : 350px;
+	height : 75px;
+	opacity : 0.6;
+} 
 
 
 .frameitembg select[name="z_pos_id"] option[value="290"] {
