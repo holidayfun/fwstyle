@@ -12,6 +12,53 @@
 	background-image:url(i/zauberpuzzle.png) !important
 }
 
+/* maha items */
+td.areadescription table b[onmouseover^="tt('antiker Würfel des Wissens'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Belpharia-Kräuselfarn'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Dunkelscheinbeeren'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Düsterfrostschimmel'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Eisblume'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Fell der Finsternis'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('explosive Sporenkapsel'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Fleischblume'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Fleegras'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Hirtenstab'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Knorpelhaut'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Kristall der Angst'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Kristallglas'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Largudrübe'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('lebendes Farnblatt'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Linya-Orchidee'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Mammut-Kaktus'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Nebel der Teleportation'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Perle der Angst'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Pflanzenkugel'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Phasenkugel'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Resistenz-Klumpen'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('roter Bergstein'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Salthosianische Sternenuhr'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Salzkristall'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Sandorchidee'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Schimmernelke'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Schlommkraut'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Schotterflechte'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Sonnenfeuerblume'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Spindeldornschlinge'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Sonnenstaub'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Stachelwinde'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Steinherz'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('unbekannte Pflanzensamen'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Unterwelt-Trüffel'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Wakrudpilz'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Weißblatt-Strauch'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('weiße Laubnelke'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('weiße Seerose'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('wilde Kletternelke'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Wissenszauber: Verjagen'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Ölfass'"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Zeichnung '"]{color:var(--mahaitem)}
+td.areadescription table b[onmouseover^="tt('Kuhkopf'"]{color:var(--mahaitem)}
+
 
 /* shopitems */
 td.areadescription table b[onmouseover^="tt('alter Schuh'"]{color:var(--sellitem)}
@@ -180,6 +227,7 @@ td.areadescription table b[onmouseover^="tt('zerfallener Sandring'"]{color:var(-
 /* GLOBAL VARS */
 :root {
   --sellitem: #1A8408;
+  --mahaitem: #ff9933;
 }
 
 
