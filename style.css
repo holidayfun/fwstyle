@@ -2504,7 +2504,8 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx-230y-538 > a:after,
 #mapx-826y-916 > a:after,
 #mapx-826y-903 > a:after {
-    content: '10-2630'
+    content: '10-2630';
+	font-size: 12px;
 }
 #mapx-823y-906 > a:after,
 #mapx-823y-903 > a:after,
@@ -2516,7 +2517,8 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx-826y-912 > a:after,
 #mapx-822y-910 > a:after,
 #mapx-824y-905 > a:after {
-    content: '9'
+    content: '9';
+	font-size: 12px;
 }
 #mapx-827y-910 > a:after,
 #mapx-825y-915 > a:after,
@@ -2526,10 +2528,12 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx-826y-918 > a:after,
 #mapx-826y-914 > a:after,
 #mapx-822y-909 > a:after {
-    content: '271'
+    content: '271';
+	font-size: 12px;
 }
 #mapx-426y-299 > a:after {
-    content: '35-1040'
+    content: '35-1040';
+	font-size: 12px;
 }
 #mapx-426y-296 > a:after,
 #mapx-426y-298 > a:after,
@@ -2538,13 +2542,15 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx-427y-297 > a:after,
 #mapx-425y-297 > a:after,
 #mapx-428y-297 > a:after {
-    content: '3'
+    content: '3';
+	font-size: 12px;
 }
 #mapx-426y-297 > a:after,
 #mapx-425y-296 > a:after,
 #mapx-428y-298 > a:after,
 #mapx-424y-298 > a:after {
-    content: '35'
+    content: '35';
+	font-size: 12px;
 }
 #mapx-346y-695 > a:after,
 #mapx-346y-694 > a:after,
@@ -2570,14 +2576,17 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx-348y-698 > a:after,
 #mapx-348y-693 > a:after,
 #mapx-348y-697 > a:after {
-    content: '12'
+    content: '12';
+	font-size: 12px;
 }
 #mapx-508y-377 > a:after,
 #mapx-509y-376 > a:after {
-    content: '15'
+    content: '15';
+	font-size: 12px;
 }
 #mapx-224y-541 > a:after {
-    content: '25-1630'
+    content: '25-1630';
+	font-size: 12px;
 }
 #mapx-224y-539 > a:after,
 #mapx-225y-538 > a:after,
@@ -2585,18 +2594,22 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx-229y-538 > a:after,
 #mapx-228y-539 > a:after,
 #mapx-227y-538 > a:after {
-    content: '25'
+    content: '25';
+	font-size: 12px;
 }
 #mapx-225y-541 > a:after,
 #mapx-225y-540 > a:after,
 #mapx-223y-541 > a:after {
-    content: '1630'
+    content: '1630';
+	font-size: 12px;
 }
 #mapx-805y-282 > a:after {
-    content: '186'
+    content: '186';
+	font-size: 12px;
 }
 #mapx-821y-910 > a:after {
-    content: '2710'
+    content: '2710';
+	font-size: 12px;
 }
 #mapx-605y-266 > a:after,
 #mapx-605y-260 > a:after,
@@ -2616,7 +2629,8 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx-608y-266 > a:after,
 #mapx-613y-262 > a:after,
 #mapx-602y-264 > a:after {
-    content: '34'
+    content: '34';
+	font-size: 12px;
 }
 #mapx-739y-228 > a:after,
 #mapx-736y-230 > a:after,
@@ -2627,16 +2641,19 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx-737y-229 > a:after,
 #mapx-737y-228 > a:after,
 #mapx-740y-228 > a:after {
-    content: '465'
+    content: '465';
+	font-size: 12px;
 }
 #mapx-645y-144 > a:after {
-    content: '5'
+    content: '5';
+	font-size: 12px;
 }
 #mapx-645y-148 > a:after,
 #mapx-643y-148 > a:after,
 #mapx-647y-145 > a:after,
 #mapx-647y-143 > a:after {
-    content: '50'
+    content: '50';
+	font-size: 12px;
 }
 #mapx-842y-377 > a:after,
 #mapx-845y-375 > a:after,
@@ -2648,13 +2665,15 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx-848y-374 > a:after,
 #mapx-846y-379 > a:after,
 #mapx-843y-377 > a:after {
-    content: '5300'
+    content: '5300';
+	font-size: 12px;
 }
 #mapx-199y-828 > a:after,
 #mapx-199y-827 > a:after,
 #mapx-199y-829 > a:after,
 #mapx-198y-828 > a:after {
-    content: '666'
+    content: '666';
+	font-size: 12px;
 }
 #mapx-165y-855 > a:after,
 #mapx-163y-857 > a:after,
@@ -2666,161 +2685,75 @@ div.uwork + br[style="clear:both;"] + br {
     color: red;
     opacity: 1
 }
-#mapx70y105 > a:after {
-    content: 'Onlo'
-}
-#mapx70y108 > a:after {
-    content: 'Onlo'
-}
-#mapx71y105 > a:after {
-    content: 'Onlo'
-}
-#mapx71y107 > a:after {
-    content: 'Onlo'
-}
-#mapx72y106 > a:after {
-    content: 'Onlo'
-}
-#mapx73y105 > a:after {
-    content: 'Onlo'
-}
-#mapx73y106 > a:after {
-    content: 'Onlo'
-}
+#mapx70y105 > a:after,
+#mapx70y108 > a:after,
+#mapx71y105 > a:after,
+#mapx71y107 > a:after,
+#mapx72y106 > a:after,
+#mapx73y105 > a:after,
+#mapx73y106 > a:after,
 #mapx74y104 > a:after {
-    content: 'Onlo'
+    content: 'Onlo';
+	font-size: 12px;
 }
-#mapx50y84 > a:after {
-    content: 'Ektofron'
-}
-#mapx51y82 > a:after {
-    content: 'Ektofron'
-}
-#mapx51y85 > a:after {
-    content: 'Ektofron'
-}
-#mapx55y88 > a:after {
-    content: 'Ektofron'
-}
-#mapx57y88 > a:after {
-    content: 'Ektofron'
-}
-#mapx58y88 > a:after {
-    content: 'Ektofron'
-}
-#mapx58y91 > a:after {
-    content: 'Ektofron'
-}
-#mapx59y84 > a:after {
-    content: 'Ektofron'
-}
-#mapx59y88 > a:after {
-    content: 'Ektofron'
-}
-#mapx59y92 > a:after {
-    content: 'Ektofron'
-}
-#mapx59y93 > a:after {
-    content: 'Ektofron'
-}
-#mapx60y87 > a:after {
-    content: 'Ektofron'
-}
-#mapx60y88 > a:after {
-    content: 'Ektofron'
-}
+#mapx50y84 > a:after,
+#mapx51y82 > a:after,
+#mapx51y85 > a:after,
+#mapx55y88 > a:after,
+#mapx57y88 > a:after,
+#mapx58y88 > a:after,
+#mapx58y91 > a:after,
+#mapx59y84 > a:after,
+#mapx59y88 > a:after,
+#mapx59y92 > a:after,
+#mapx59y93 > a:after,
+#mapx60y87 > a:after,
+#mapx60y88 > a:after,
 #mapx60y92 > a:after {
-    content: 'Ektofron'
+    content: 'Ektofron';
+	font-size: 12px;
 }
-#mapx119y111 > a:after {
-    content: 'Blattalisk'
-}
-#mapx119y114 > a:after {
-    content: 'Blattalisk'
-}
-#mapx119y115 > a:after {
-    content: 'Blattalisk'
-}
-#mapx120y111 > a:after {
-    content: 'Blattalisk'
-}
-#mapx120y114 > a:after {
-    content: 'Blattalisk'
-}
-#mapx121y111 > a:after {
-    content: 'Blattalisk'
-}
-#mapx121y114 > a:after {
-    content: 'Blattalisk'
-}
+#mapx119y111 > a:after,
+#mapx119y114 > a:after,
+#mapx119y115 > a:after,
+#mapx120y111 > a:after,
+#mapx120y114 > a:after,
+#mapx121y111 > a:after,
+#mapx121y114 > a:after,
 #mapx121y115 > a:after {
-    content: 'Blattalisk'
+    content: 'Blattalisk';
+	font-size: 12px;
 }
-#mapx-196y-96 > a:after {
-    content: 'Bürger'
-}
-#mapx-193y-98 > a:after {
-    content: 'Bürger'
-}
-#mapx-185y-94 > a:after {
-    content: 'Bürger'
-}
-#mapx80y87 > a:after {
-    content: 'Bürger'
-}
-#mapx81y88 > a:after {
-    content: 'Bürger'
-}
-#mapx81y89 > a:after {
-    content: 'Bürger'
-}
-#mapx82y87 > a:after {
-    content: 'Bürger'
-}
-#mapx82y90 > a:after {
-    content: 'Bürger'
-}
+#mapx-196y-96 > a:after,
+#mapx-193y-98 > a:after,
+#mapx-185y-94 > a:after,
+#mapx80y87 > a:after,
+#mapx81y88 > a:after,
+#mapx81y89 > a:after,
+#mapx82y87 > a:after,
+#mapx82y90 > a:after,
 #mapx84y88 > a:after {
-    content: 'Bürger'
+    content: 'Bürger';
+	font-size: 12px;
 }
-#mapx-508y-375 > a:after {
-    content: 'Falter'
-}
-#mapx108y77 > a:after {
-    content: 'Falter'
-}
-#mapx109y76 > a:after {
-    content: 'Falter'
-}
-#mapx111y77 > a:after {
-    content: 'Falter'
-}
-#mapx112y79 > a:after {
-    content: 'Falter'
-}
-#mapx113y79 > a:after {
-    content: 'Falter'
-}
-#mapx114y81 > a:after {
-    content: 'Falter'
-}
-#mapx115y80 > a:after {
-    content: 'Falter'
-}
-#mapx116y79 > a:after {
-    content: 'Falter'
-}
+#mapx-508y-375 > a:after,
+#mapx108y77 > a:after,
+#mapx109y76 > a:after,
+#mapx111y77 > a:after,
+#mapx112y79 > a:after,
+#mapx113y79 > a:after,
+#mapx114y81 > a:after,
+#mapx115y80 > a:after,
+#mapx116y79 > a:after,
 #mapx119y79 > a:after {
-    content: 'Falter'
+	content: 'Falter';
+	font-size: 12px;
 }
-#mapx85y99 > a:after {
-    content: 'Käfer'
-}
-#mapx86y100 > a:after {
-    content: 'Käfer'
-}
+#mapx85y99 > a:after,
+#mapx86y100 > a:after,
 #mapx87y99 > a:after {
-    content: 'Käfer'
+    content: 'Käfer';
+	font-size: 12px;
 }
 #mapx119y80 > a:after,
 #mapx120y81 > a:after,
@@ -2832,7 +2765,8 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx124y80 > a:after,
 #mapx126y80 > a:after,
 #mapx127y79 > a:after {
-    content: 'gr. Schatten'
+    content: 'gr. Schatten';
+	font-size: 12px;
 }
 #mapx120y86 > a:after,
 #mapx119y88 > a:after,
@@ -2841,7 +2775,8 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx123y84 > a:after,
 #mapx123y86 > a:after,
 #mapx124y85 > a:after {
-    content: 'Krokodil'
+    content: 'Krokodil';
+	font-size: 12px;
 }
 #mapx97y81 > a:after,
 #mapx94y79 > a:after,
@@ -2855,7 +2790,8 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx121y89 > a:after,
 #mapx123y87 > a:after,
 #mapx125y86 > a:after {
-    content: 'Morin'
+    content: 'Morin';
+	font-size: 12px;
 }
 
 #mapx102y121 > a:after,
@@ -2886,7 +2822,8 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx81y78 > a:after,
 #mapx88y79 > a:after,
 #mapx39y97 > a:after {
-    content: 'Undaron'
+    content: 'Undaron';
+	font-size: 12px;
 }
 #mapx52y90 > a:after,
 #mapx52y93 > a:after,
@@ -2895,7 +2832,8 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx52y100 > a:after,
 #mapx50y102 > a:after,
 #mapx50y104 > a:after {
-	content: 'Kraftvoller'
+	content: 'Kraftvoller';
+	font-size: 12px;
 }
 #mapx106y81 > a:after,
 #mapx106y85 > a:after,
@@ -2918,7 +2856,8 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx111y87 > a:after,
 #mapx98y75 > a:after,
 #mapx96y79 > a:after {
-	content: 'Frostdämon'
+	content: 'Frostdämon';
+	font-size: 12px;
 }
 #mapx104y75 > a:after,
 #mapx101y84 > a:after,
@@ -2933,7 +2872,8 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx105y79 > a:after,
 #mapx105y80 > a:after,
 #mapx106y75 > a:after{
-	content: 'Abgesandter'
+	content: 'Abgesandter';
+	font-size: 12px;
 }
 
 #mapx134y116 > a:after,
@@ -2948,7 +2888,8 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx139y115 > a:after,
 #mapx139y116 > a:after,
 #mapx139y117 > a:after {
-	content: 'Muschel'
+	content: 'Muschel';
+	font-size: 12px;
 }
 
 #mapx188y131 > a:after,
@@ -2967,14 +2908,16 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx197y136 > a:after,
 #mapx198y131 > a:after,
 #mapx199y135 > a:after {
-	content: 'Strativar'
+	content: 'Strativar';
+	font-size: 12px;
 }
 #mapx192y135 > a:after,
 #mapx193y130 > a:after,
 #mapx194y134 > a:after,
 #mapx196y129 > a:after,
 #mapx197y130 > a:after {
-	content: 'Fallensteller'
+	content: 'Fallensteller';
+	font-size: 12px;
 }
 #mapx182y137 > a:after,
 #mapx183y138 > a:after,
@@ -2990,12 +2933,14 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx187y136 > a:after,
 #mapx187y137 > a:after,
 #mapx187y138 > a:after {
-	content: 'Sandgolem'
+	content: 'Sandgolem';
+	font-size: 12px;
 }
 #mapx184y140 > a:after,
 #mapx185y140 > a:after,
 #mapx186y140 > a:after {
-	content: 'Rochen'
+	content: 'Rochen';
+	font-size: 12px;
 }
 #mapx79y78 > a:after,
 #mapx80y76 > a:after,
@@ -3005,7 +2950,8 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx83y77 > a:after,
 #mapx86y79 > a:after,
 #mapx88y80 > a:after {
-	content: 'Kriecher'
+	content: 'Kriecher';
+	font-size: 12px;
 }
 #mapx255y94 > a:after,
 #mapx255y95 > a:after,
@@ -3015,15 +2961,18 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx258y95 > a:after,
 #mapx259y92 > a:after,
 #mapx-237y-385 > a:after {
-	content: 'Schildkröte'
+	content: 'Schildkröte';
+	font-size: 12px;
 }
 #mapx102y128 > a:after,
 #mapx101y129 > a:after,
 #mapx103y130 > a:after {
-	content: 'Steinkraller'
+	content: 'Steinkraller';
+	font-size: 12px;
 }
 #mapx102y129 > a:after {
-	content: 'Krabbler'
+	content: 'Krabbler';
+	font-size: 12px;
 }
 #mapx-202y-829 > a:after,
 #mapx-202y-828 > a:after,
@@ -3035,7 +2984,8 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx-200y-822 > a:after,
 #mapx-199y-825 > a:after,
 #mapx-198y-825 > a:after {
-	content: 'denkender'
+	content: 'denkender';
+	font-size: 12px;
 }
 #mapx-210y-827 > a:after,
 #mapx-210y-826 > a:after,
@@ -3059,7 +3009,8 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx-199y-826 > a:after,
 #mapx-206y-825 > a:after,
 #mapx-199y-823 > a:after {
-	content: 'norm. Dämon'
+	content: 'norm. Dämon';
+	font-size: 12px;
 }
 
 #mapx-208y-827 > a:after,
@@ -3069,14 +3020,16 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx-206y-824 > a:after,
 #mapx-201y-825 > a:after,
 #mapx-199y-824 > a:after {
-	content: 'schw. Dämon'
+	content: 'schw. Dämon';
+	font-size: 12px;
 }
 
 #mapx-209y-827 > a:after,
 #mapx-209y-826 > a:after,
 #mapx-208y-825 > a:after,
 #mapx-205y-826 > a:after {
-	content: 'ur. Dämon'
+	content: 'ur. Dämon';
+	font-size: 12px;
 }
 #mapx-609y-207 > a:after,
 #mapx-608y-205 > a:after,
@@ -3088,11 +3041,13 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx-603y-204 > a:after,
 #mapx-602y-208 > a:after,
 #mapx-602y-206 > a:after {
-	content: 'Falke'
+	content: 'Falke';
+	font-size: 12px;
 }
 #mapx101y136 > a:after,
 #mapx106y136 > a:after {
-	content: 'Krebs'
+	content: 'Krebs';
+	font-size: 12px;
 }
 #mapx102y133 > a:after,
 #mapx102y136 > a:after,
@@ -3102,19 +3057,23 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx104y132 > a:after,
 #mapx104y135 > a:after,
 #mapx106y134 > a:after {
-	content: 'Möwe'
+	content: 'Möwe';
+	font-size: 12px;
 }
 #mapx100y135 > a:after,
 #mapx100y136 > a:after {
-	content: 'Schildkröte'
+	content: 'Schildkröte';
+	font-size: 12px;
 }
 #mapx101y137 > a:after,
 #mapx106y137 > a:after,
 #mapx107y137 > a:after {
-	content: 'Reiter'
+	content: 'Reiter';
+	font-size: 12px;
 }
 #mapx103y131 > a:after {
-	content: 'Statue'
+	content: 'Statue';
+	font-size: 12px;
 }
 #mapx-236y-387 > a:after,
 #mapx-236y-386 > a:after,
@@ -3122,14 +3081,16 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx-235y-385 > a:after,
 #mapx-234y-386 > a:after,
 #mapx-232y-386 > a:after {
-	content: 'Krebs'
+	content: 'Krebs';
+	font-size: 12px;
 }
 #mapx-238y-387 > a:after,
 #mapx-238y-386 > a:after,
 #mapx-236y-388 > a:after,
 #mapx-236y-385 > a:after,
 #mapx-236y-384 > a:after {
-	content: 'Wurm'
+	content: 'Wurm';
+	font-size: 12px;
 }
 
 #mapx53y74 > a:after,
@@ -3137,7 +3098,8 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx54y76 > a:after,
 #mapx54y77 > a:after,
 #mapx55y75 > a:after {
-	content: 'magische'
+	content: 'magische';
+	font-size: 12px;
 }
 #mapx52y76 > a:after,
 #mapx53y76 > a:after,
@@ -3146,20 +3108,23 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx54y75 > a:after,
 #mapx55y76 > a:after,
 #mapx56y75 > a:after {
-	content: 'kleine'
+	content: 'kleine';
+	font-size: 12px;
 }
 #mapx114y102 > a:after,
 #mapx115y101 > a:after,
 #mapx116y100 > a:after,
 #mapx118y100 > a:after,
 #mapx118y99 > a:after {
-	content: 'Farn'
+	content: 'Farn';
+	font-size: 12px;
 }
 #mapx78y78 > a:after,
 #mapx78y79 > a:after,
 #mapx83y76 > a:after,
 #mapx84y77 > a:after {
-	content: 'Schlange'
+	content: 'Schlange';
+	font-size: 12px;
 }
 #mapx119y91 > a:after,
 #mapx120y90 > a:after,
@@ -3168,7 +3133,8 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx121y90 > a:after,
 #mapx121y92 > a:after,
 #mapx123y91 > a:after {
-	content: 'Kaktus'
+	content: 'Kaktus';
+	font-size: 12px;
 }
 #mapx-232y-368 > a:after,
 #mapx-231y-367 > a:after,
@@ -3184,13 +3150,15 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx-226y-369 > a:after,
 #mapx-226y-365 > a:after,
 #mapx-225y-368 > a:after {
-	content: 'Fisch'
+	content: 'Fisch';
+	font-size: 12px;
 }
 #mapx-231y-369 > a:after,
 #mapx-229y-367 > a:after,
 #mapx-227y-365 > a:after,
 #mapx-225y-366 > a:after {
-	content: 'Hai'
+	content: 'Hai';
+	font-size: 12px;
 }
 #mapx94y86 > a:after,
 #mapx94y87 > a:after,
@@ -3201,13 +3169,15 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx98y82 > a:after,
 #mapx103y76 > a:after,
 #mapx104y81 > a:after {
-	content: 'Frostgeist'
+	content: 'Frostgeist';
+	font-size: 12px;
 }
 #mapx63y101 > a:after,
 #mapx63y102 > a:after,
 #mapx50y97 > a:after,
 #mapx54y96 > a:after {
-	content: 'Schleimer'
+	content: 'Schleimer';
+	font-size: 12px;
 }
 #mapx56y96 > a:after,
 #mapx56y101 > a:after,
@@ -3220,7 +3190,8 @@ div.uwork + br[style="clear:both;"] + br {
 #mapx60y101 > a:after,
 #mapx61y99 > a:after,
 #mapx51y96 > a:after {
-	content: 'Kreischer'
+	content: 'Kreischer';
+	font-size: 12px;
 }
 
 
