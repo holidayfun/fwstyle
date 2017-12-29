@@ -943,14 +943,12 @@
      color: #333 !important;
      border-radius: 4px 
 }
- table[style="border:1px solid #C85424;
-"] {
+ table[style="border:1px solid #C85424;"] {
      border-radius: 2px;
      border: 1px solid rgba(0, 0, 0, .3) !important;
      box-shadow: 0 0 4px rgba(0, 0, 0, .2) 
 }
- table[style="border:1px solid #C85424;
-"] td {
+ table[style="border:1px solid #C85424;"] td {
      color: #111 
 }
  img[src="http://voting.gdynamite.de/images/gd_animbutton.gif"] {
@@ -1844,26 +1842,18 @@
  a[href="premium.php"] + br + br + style + table {
      border: 0 !important 
 }
- a[href="premium.php"] + br + br + style + table tr.bg1[style="font-weight:bold;
-border:2px solid #C85424;
-"] {
+ a[href="premium.php"] + br + br + style + table tr.bg1[style="font-weight:bold;border:2px solid #C85424;"] {
      border: 1px solid #ccc !important;
      background: #fff 
 }
- a[href="premium.php"] + br + br + style + table tr.bg1[style="font-weight:bold;
-border:2px solid #C85424;
-"] ~ tr {
+ a[href="premium.php"] + br + br + style + table tr.bg1[style="font-weight:bold;border:2px solid #C85424;"] ~ tr {
      border: 1px solid #ccc !important;
      border-top: 0 !important 
 }
- a[href="premium.php"] + br + br + style + table tr.bg1[style="font-weight:bold;
-border:2px solid #C85424;
-"] ~ tr.bg1 {
+ a[href="premium.php"] + br + br + style + table tr.bg1[style="font-weight:bold;border:2px solid #C85424;"] ~ tr.bg1 {
      background-color: #f9f9f9 !important 
 }
- a[href="premium.php"] + br + br + style + table tr.bg1[style="font-weight:bold;
-border:2px solid #C85424;
-"] ~ tr.bg2 {
+ a[href="premium.php"] + br + br + style + table tr.bg1[style="font-weight:bold;border:2px solid #C85424;"] ~ tr.bg2 {
      background-color: #eee !important 
 }
  a[href="premium.php"] + br + br + style + table tr img[src^="../images/items"] {
@@ -1873,8 +1863,7 @@ border:2px solid #C85424;
  div.uwork br:first-of-type + br {
      display: none 
 }
- div.uwork + br[style="clear:both;
-"] + br {
+ div.uwork + br[style="clear:both;"] + br {
      display: none 
 }
  .tutorial {
