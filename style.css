@@ -1939,7 +1939,7 @@
      text-overflow: ellipsis;
      overflow: hidden;
      top : 5px;
-     left: 20%;
+     left: 0.5%;
      content : url("https://freewar.zocker.eu/grafik.php");
      width : 350px;
      height : 60px;
@@ -1957,12 +1957,13 @@
      border: 3px solid #eee;
      text-overflow: ellipsis;
      overflow: hidden;
-     top : 5px;
-     left: 70%;
+     top : -2px;
+     right: -3%;
      content : url("http://freewar.zocker.eu/vvvg.php");
-     width : 350px;
-     height : 60px;
+     width : 320px;
+     height : 75px;
      opacity : 0.9;
+     transform : scale(0.8);
 }
  .framebannerbg table td:first-of-type {
      display: none 
