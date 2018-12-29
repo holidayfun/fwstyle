@@ -2865,7 +2865,7 @@
      font-size: var(--map-hint-font-size);
      line-height: var(--map-hint-line-height);
 }
- #mapx102y133 > a:after, #mapx102y136 > a:after, #mapx103y134 > a:after, #mapx103y135 > a:after, #mapx103y136 > a:after, #mapx104y132 > a:after, #mapx104y135 > a:after, #mapx106y134 > a:after {
+ #mapx102y133 > a > svg:after, #mapx102y136 > a > svg:after, #mapx103y134 > a > svg:after, #mapx103y135 > a > svg:after, #mapx103y136 > a > svg:after, #mapx104y132 > a > svg:after, #mapx104y135 > a > svg:after, #mapx106y134 > a > svg:after {
      content: 'Möwe';
      font-size: var(--map-hint-font-size);
      line-height: var(--map-hint-line-height);
