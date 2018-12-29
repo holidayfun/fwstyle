@@ -4,8 +4,8 @@
  :root {
      --sellitem: #1A8408;
      --mahaitem: #ff9933;
-     --map-hint-font-size: 9px;
-     --map-hint-line-height: 150%;
+     --map-hint-font-size: 7px;
+     --map-hint-line-height: 50%;
 }
 /* Puzzle */
  #puzzle .pic1,#puzzle .pic2,#puzzle .pic3,#puzzle .pic4,#puzzle .pic5,#puzzle .pic6,#puzzle .pic7,#puzzle .pic8,#puzzle .pic9,#puzzle .pic10,#puzzle .pic11,#puzzle .pic12,#puzzle .pic13,#puzzle .pic14,#puzzle .pic15 {
@@ -2865,7 +2865,7 @@
      font-size: var(--map-hint-font-size);
      line-height: var(--map-hint-line-height);
 }
- #mapx102y133 > a > svg:after, #mapx102y136 > a > svg:after, #mapx103y134 > a > svg:after, #mapx103y135 > a > svg:after, #mapx103y136 > a > svg:after, #mapx104y132 > a > svg:after, #mapx104y135 > a > svg:after, #mapx106y134 > a > svg:after {
+ #mapx102y133 > a:after, #mapx102y136 > a:after, #mapx103y134 > a:after, #mapx103y135 > a:after, #mapx103y136 > a:after, #mapx104y132 > a:after, #mapx104y135 > a:after, #mapx106y134 > a:after {
      content: 'Möwe';
      font-size: var(--map-hint-font-size);
      line-height: var(--map-hint-line-height);
