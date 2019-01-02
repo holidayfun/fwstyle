@@ -1927,44 +1927,7 @@
  .framebannerbg {
      background: #fff url(i/noise_gray.png) fixed 
 }
- .framebannerbg:before {
-     position: absolute;
-     white-space: pre;
-     box-shadow: 0 0 4px rgba(0, 0, 0, .5);
-     border-radius: 1px;
-     font-size: 11px;
-     display: block;
-     transition: all 500ms;
-     border: 3px solid #eee;
-     text-overflow: ellipsis;
-     overflow: hidden;
-     top : 5px;
-     left: 0.5%;
-     content : url("https://freewar.zocker.eu/grafik.php");
-     width : 350px;
-     height : 60px;
-     opacity : 0.9;
-}
-
- .framebannerbg:after {
-     position: absolute;
-     white-space: pre;
-     box-shadow: 0 0 4px rgba(0, 0, 0, .5);
-     border-radius: 1px;
-     font-size: 11px;
-     display: block;
-     transition: all 500ms;
-     border: 3px solid #eee;
-     text-overflow: ellipsis;
-     overflow: hidden;
-     top : -2px;
-     right: -3%;
-     content : url("http://freewar.zocker.eu/vvvg.php");
-     width : 320px;
-     height : 75px;
-     opacity : 0.9;
-     transform : scale(0.8);
-}
+ 
  .framebannerbg table td:first-of-type {
      display: none 
 }
