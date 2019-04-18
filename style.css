@@ -1481,7 +1481,7 @@
 }
 .personlistcaption,
 .listusersrow {
-     width: calc(100% + 50px + .5em);
+     width: calc(100% + 50px + .5em) !important;
 }
  .listusersrow:last-of-type {
      border-bottom-left-radius: 5px;
