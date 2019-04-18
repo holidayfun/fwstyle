@@ -1428,6 +1428,7 @@
      padding: 3px;
      border: 1px solid #999;
      background-color: #f9f9f9;
+     background-size: 56px !important;
      width: 50px !important;
      height: 50px !important;
      border-radius: 3px 0 5px 0;
@@ -1464,7 +1465,7 @@
      font-weight: bold 
 }
  .listusersrow {
-     padding: 2px 6px;
+     padding: 2px 5px;
      border: 1px solid #ccc;
      border-bottom: 0 solid transparent;
      font-size: 11px;
@@ -1477,6 +1478,10 @@
      border-top-left-radius: 5px;
      border-top-right-radius: 5px;
      margin-top: 2px 
+}
+.personlistcaption,
+.listusersrow {
+     width: calc(100% + 50px + .5em);
 }
  .listusersrow:last-of-type {
      border-bottom-left-radius: 5px;
