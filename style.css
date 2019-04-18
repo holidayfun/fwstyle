@@ -1428,10 +1428,10 @@
      padding: 3px;
      border: 1px solid #999;
      background-color: #f9f9f9;
-     width: 50px; !important
-     height: 50px; !important
+     width: 50px !important;
+     height: 50px !important;
      border-radius: 3px 0 5px 0;
-     position: absolute; !important
+     position: absolute !important;
      left: 6px;
      top: 21px;
      box-shadow: 4px 4px 4px -4px #888 
