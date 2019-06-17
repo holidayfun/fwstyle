@@ -2932,3 +2932,35 @@
      content: url('/event/record?event=pensal-available&world=de10') 
 }
  
+/* Positionierung von Ring und Spezialfähigkeit */
+#listrow_ring {
+  position: absolute;
+  right: 0;
+  visibility: hidden;
+  z-index: 10000;
+}
+#listrow_ring a:after {    
+  position: absolute;
+  right: 10px;
+  z-index: 10000;
+  content:'Ring'; 
+  visibility: visible;
+  display: block;
+  transform: translateY(-32px)
+}
+#listrow_special {
+  position: absolute;
+  visibility: hidden;
+  right: 0px;
+  z-index: 10000;
+  transform: translate(-30px,0px);
+}
+#listrow_special a:after {    
+  position: absolute;
+  right: 10px;
+  z-index: 10000;
+  content:'Fähigkeit'; 
+  visibility: visible;
+  display: block;
+  transform: translateY(-32px)
+}
