@@ -1813,7 +1813,7 @@ table.areadescription .areadescription * {
 }
 
 .personlistcaption {
-  border: #1px solid #000;
+  border: 1px solid #000;
   background: #333 url(i/user.png) 3px center no-repeat;
   padding: 4px 5px 4px 23px;
   border-radius: 5px;
@@ -1934,7 +1934,7 @@ table.areadescription .areadescription * {
 }
 
 .itemlistcaption {
-  border: #1px solid #000;
+  border: 1px solid #000;
   background: #333 url(i/box.png) 3px center no-repeat;
   padding: 4px 5px 4px 23px;
   border-radius: 5px;
@@ -1944,7 +1944,7 @@ table.areadescription .areadescription * {
 }
 
 #plantrow {
-  border: #1px solid #000;
+  border: 1px solid #000;
   background: #333 url(i/plant.png) 3px center no-repeat;
   padding: 4px 5px 4px 23px;
   border-radius: 5px;
@@ -3648,11 +3648,8 @@ div.uwork + br[style="clear:both;"] + br {
 #MapFrameID1 #mapx121y71:before, #MapFrameID1 #mapx120y71:before, #MapFrameID1 #mapx119y71:before, 
 #MapFrameID1 #mapx118y72:before, #MapFrameID1 #mapx119y72:before, #MapFrameID1 #mapx120y72:before, #MapFrameID1 #mapx121y72:before, #MapFrameID1 #mapx122y72:before, 
 #MapFrameID1 #mapx120y73:before, #MapFrameID1 #mapx121y73:before, #MapFrameID1 #mapx122y73:before, #MapFrameID1 #mapx123y73:before, #MapFrameID1 #mapx124y73:before, 
-#MapFrameID1 #mapx120y74:before, #MapFrameID1 #mapx121y74:before, #MapFrameID1 #mapx122y74:before, #MapFrameID1 #mapx123y74:before, #MapFrameID1 #mapx124y74:before, #MapFrameID1 #mapx125y74:before,
-#MapFrameID1 #mapx118y75:before, #MapFrameID1 #mapx119y75:before, #MapFrameID1 #mapx120y75:before, #MapFrameID1 #mapx121y75:before, #MapFrameID1 #mapx123y75:before, #MapFrameID1 #mapx124y75:before, #MapFrameID1 #mapx125y75:before, #MapFrameID1 #mapx126y75:before, #MapFrameID1 #mapx127y75:before,
-#MapFrameID1 #mapx119y76:before, #MapFrameID1 #mapx120y76:before, #MapFrameID1 #mapx124y76:before, #MapFrameID1 #mapx125y76:before, #MapFrameID1 #mapx126y76:before, #MapFrameID1 #mapx127y76:before,
-#MapFrameID1 #mapx119y77:before, 
-#MapFrameID1 #mapx118y78:before, #MapFrameID1 #mapx119y78:before,  {
+#MapFrameID1 #mapx120y74:before, #MapFrameID1 #mapx121y74:before, #MapFrameID1 #mapx122y74:before, #MapFrameID1 #mapx123y74:before, #MapFrameID1 #mapx124y74:before, #MapFrameID1 #mapx125y74:before, 
+#MapFrameID1 #mapx118y75:before, #MapFrameID1 #mapx119y75:before, #MapFrameID1 #mapx120y75:before, #MapFrameID1 #mapx121y75:before, #MapFrameID1 #mapx123y75:before, #MapFrameID1 #mapx124y75:before, #MapFrameID1 #mapx125y75:before, #MapFrameID1 #mapx126y75:before, #MapFrameID1 #mapx127y75:before,#MapFrameID1 #mapx119y76:before, #MapFrameID1 #mapx120y76:before, #MapFrameID1 #mapx124y76:before, #MapFrameID1 #mapx125y76:before, #MapFrameID1 #mapx126y76:before, #MapFrameID1 #mapx127y76:before,#MapFrameID1 #mapx119y77:before, #MapFrameID1 #mapx118y78:before, #MapFrameID1 #mapx119y78:before {
   position: absolute;
   left: 0;
   right: 0;
