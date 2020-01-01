@@ -3363,7 +3363,7 @@ div.uwork + br[style="clear:both;"] + br {
   line-height: var(--map-hint-line-height);
 }
 
-#mapx-165y-855 > a:after, #mapx-237y-387 > a:after, #mapx-163y-856 > a:after, #mapx-167y-857 > a:after {
+#mapx-237y-387 > a:after {
   content: '1674';
   font-size: var(--map-hint-font-size);
   line-height: var(--map-hint-line-height);
