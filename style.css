@@ -1026,6 +1026,7 @@ a[href="map.php?reload=1"] img {
 }
 
 .framechattextbg [class*="chattext"] {
+  background-color: revert !important;
 }
 
 .framechatformbg td {
